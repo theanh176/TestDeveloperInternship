@@ -1,0 +1,7 @@
+Test1: 
+	- Sử dụng đệ quy để giải.
+	- Chưa khử được đệ quy.
+Test2: 
+	- Front-End: Sử dụng React hoàn thành
+	- API: Sử dụng ASP.NET kết nối Database
+	- Back-End: Chưa hoàn thành
